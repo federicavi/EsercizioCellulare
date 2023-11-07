@@ -14,7 +14,9 @@ Accensione e spegnimento del cellulare.
 Emissione di chiamate telefoniche e invio di SMS, che influiscono sul livello della batteria.
 Visualizzazione del livello della batteria.
 Ricarica della batteria tramite un caricabatterie compatibile.
+
 Utilizzo
+
 Il codice include un esempio di utilizzo della classe Cellulare in un'applicazione di console. 
 Gli utenti possono accendere il cellulare, effettuare chiamate, inviare SMS e verificare il livello della batteria. 
 Inoltre, esiste un caricatore specifico collegato ad ogni batteria.
