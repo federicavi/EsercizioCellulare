@@ -32,5 +32,5 @@ Caricatore: Rappresenta un caricabatterie e può essere utilizzato per caricare 
 Requisiti
 Lingua: C#
 
-Autori
+Autore
 [Federica Visciglia]
